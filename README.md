@@ -1,5 +1,5 @@
 
-![Untitled design](https://github.com/TharushaRuwantha/TharushaRuwantha/assets/87405522/b1476b0e-cc85-4d78-b7c0-f83a855573d6)
+![Untitled design](https://github.com/TharushaRuwantha/TharushaRuwantha/assets/87405522/b1476b0e-cc85-4d78-b7c0-f83a855573d6) 
 
 
 <!-- Header Section -->
