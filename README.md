@@ -1,5 +1,11 @@
+
+![Untitled design](https://github.com/TharushaRuwantha/TharushaRuwantha/assets/87405522/b1476b0e-cc85-4d78-b7c0-f83a855573d6)
+
+
 <!-- Header Section -->
+
 # 👋 Hello, I'm Tharusha Perera!
+
 
 Welcome to my GitHub profile! 🚀 I'm a passionate Data Analyst and an IT student with a keen interest in cutting-edge technologies, including Gen AI, AI, ML, Deep Learning, and RL. 🧠
 
