@@ -38,17 +38,18 @@ Welcome to my GitHub profile! 🚀 I'm a passionate Data Analyst and an IT stude
 
 <!-- Connect with Me Section -->
 ## 📫 Connect with Me
-
+<p align="center"> 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharusha-ruwantha-5w/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tharushaperera6199@gmail.com)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-green?style=for-the-badge)]([https://www.tharushaperera.com/](https://tharusharuwantha.github.io/portfolio/))
 
 
+</p>
+
 <!-- Footer Section -->
 <hr>
-<p align="center">
-  Made with ❤️ by Tharusha Perera
-</p>
+
 
 
 
