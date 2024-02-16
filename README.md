@@ -3,7 +3,6 @@
 
 
 <!-- Header Section -->
-
 # 👋 Hello, I'm Tharusha Perera!
 
 
