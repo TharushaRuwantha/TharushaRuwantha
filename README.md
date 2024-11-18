@@ -1,6 +1,6 @@
 
 
-  <img src="https://github.com/user-attachments/assets/10a04c2d-d6bd-4d7c-9f88-e9df9c6cc21a" alt="Hello Dev’s" style="width:100%; max-width:100%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/10a04c2d-d6bd-4d7c-9f88-e9df9c6cc21a" alt="Hello Dev’s" style="width:640px; max-width:100%; height:auto;">
 
 
 <!-- Header Section -->
