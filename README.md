@@ -1,6 +1,5 @@
 
-![Untitled design](https://github.com/TharushaRuwantha/TharushaRuwantha/assets/87405522/b1476b0e-cc85-4d78-b7c0-f83a855573d6) 
-
+![Hello Dev’s](https://github.com/user-attachments/assets/10a04c2d-d6bd-4d7c-9f88-e9df9c6cc21a)
 
 <!-- Header Section -->
 # 👋 Hello, I'm Tharusha Perera!
