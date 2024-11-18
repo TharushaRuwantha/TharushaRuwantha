@@ -1,6 +1,7 @@
 
-![Hello Dev’s](https://github.com/user-attachments/assets/10a04c2d-d6bd-4d7c-9f88-e9df9c6cc21a)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/10a04c2d-d6bd-4d7c-9f88-e9df9c6cc21a" alt="Hello Dev’s" style="width:100%; max-width:600px; height:auto;">
+</div>
 <!-- Header Section -->
 # 👋 Hello, I'm Tharusha Perera!
 
