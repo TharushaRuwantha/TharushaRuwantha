@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate Data Analyst and an IT stude
 
 <!-- About Me Section -->
 ## 📚 About Me
-- 👨‍💻 Data Analyst with a knack for problem-solving.
+- 👨‍💻 Software Engineer with a knack for problem-solving.
 - 🎓 Studying Information Technology.
 - 🌱 Currently exploring Gen AI technologies and Foundation Models.
 - 💡 Interested in AI, ML, Deep Learning, RL, and Gen AI.
