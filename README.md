@@ -6,7 +6,7 @@
 <!-- Header Section -->
 # 👋 Hello, I'm Tharusha Perera!
 
-👨‍💻 Tech Enthusiast | 🎓 Teacher | 💡 Problem Solver
+#### 👨‍💻 Tech Enthusiast | 🎓 Teacher | 💡 Problem Solver
 I'm a passionate technology professional with a BSc (Hons) in Information Technology (Second Class Lower Honors). I thrive in dynamic environments, quickly adapting to new challenges and emerging technologies. My focus lies in designing innovative solutions that enhance customer satisfaction and drive organizational growth.
 
 🔹 Precision & Reliability: Delivering high-quality, impactful contributions.
@@ -24,17 +24,7 @@ I'm a passionate technology professional with a BSc (Hons) in Information Techno
 ## 📚 About Me
 - 👨‍💻 Software Engineer with a knack for problem-solving.
 - 🎓 Studying Information Technology.
-- 🌱 Currently exploring Gen AI technologies and Foundation Models.
-- 💡 Interested in AI, ML, Deep Learning, RL, and Gen AI.
 - 💻 Proficient in Flutter, React Native, MERN stack, SQL, Python, Java, Android, and Game Development with Unity and Unreal Engine.
-
-  <!-- Learning Section -->
-## 🌐 Currently Learning
-- Gen AI Technologies (Foundation Models)
-- Advanced Algorithms in ML and Deep Learning
-- Reinforcement Learning Concepts
-
-
 
 
 <!-- Tech Stack Section -->
